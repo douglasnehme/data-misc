@@ -1,5 +1,5 @@
 # data-misc
-Miscellaneous data from expanded South Atlantic
+Miscellaneous data from expanded South Atlantic [65°S - 22°N; 74°W - 30°E]
 
 ## Roadmap
 
