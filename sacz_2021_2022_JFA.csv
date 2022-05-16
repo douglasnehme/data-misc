@@ -1,4 +1,4 @@
-event,initial_date,end_date,length
+event,initial_day,end_day,length
 1,30/11/2021,04/12/2021,5
 2,06/12/2021,10/12/2021,5
 3,23/12/2021,02/01/2022,11
