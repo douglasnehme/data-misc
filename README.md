@@ -11,11 +11,12 @@ Miscellaneous data from expanded South Atlantic [65°S - 22°N; 74°W - 30°E]
 - ocean_fixed_stations.csv
   - My own production
 - sacz_2021_2022_JFA.csv
-  - South Atlantic Convergence Zone (SACZ) events during 2021/2022 summer and identified by J. F. A.
+  - South Atlantic Convergence Zone (SACZ) events during 2021/2022 summer identified by J. F. A.
 - sacz_rosa_etal2020.csv
   - Table S2 of [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full), located at [Supplementary Material](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full#supplementary-material)
 
 ## Roadmap
 
+- Assess whether there is any inconsistency in temporal resolution and/or values between the data from Abrolhos and Fernando de Noronha buoy from the PNBOIA website (links at column operational_path of the file [ocean_fixed_station](./ocean_fixed_station.csv)) and REMObs websites (respectivly, http://boia-abrolhos.herokuapp.com/ and http://noronha.herokuapp.com/)
 - Insert tide gauge data
   - In the ocean-fixed-stations.csv file or in a new one?
