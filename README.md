@@ -11,7 +11,7 @@ Miscellaneous data from expanded South Atlantic [65°S - 22°N; 74°W - 30°E]
 - ocean_fixed_stations.csv
   - My own production
 - sacz_2021_2022_JFA.csv
-  - South Atlantic Convergence Zone (SACZ) events during 2021/2022 summer identified by J. F. A.
+  - South Atlantic Convergence Zone (SACZ) events during 2021/2022 summer identified by J. F. A. and used in [Pezzi *et al.* (2023)](https://www.nature.com/articles/s41598-023-28803-w)
 - sacz_rosa_etal2020_1996-2016.csv
   - Table S2 of [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full), located at [Supplementary Material](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full#supplementary-material)
 - sacz_rosa_etal2020_1986-2020.csv
