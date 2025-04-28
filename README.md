@@ -15,7 +15,7 @@ Miscellaneous data from expanded South Atlantic [65°S - 22°N; 74°W - 30°E]
 - sacz_rosa_etal2020_1996-2016.csv
   - Table S2 of [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full), located at [Supplementary Material](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full#supplementary-material)
 - sacz_rosa_etal2020_1986-2020.csv
-  - Sacz events identified using [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full) method for the period from 1986 to 2020.
+  - SACZ events identified using [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full) method for the period from 1986 to 2020, courtesy of the authors.
 
 ## Roadmap
 
