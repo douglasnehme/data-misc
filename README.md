@@ -1,6 +1,6 @@
 # data-misc
 
-Miscellaneous data from Southwest Atlantic Ocean [65°S - 22°N; 74°W - 30°E]
+Miscellaneous data from Southwest Atlantic [65°S - 22°N; 74°W - 30°E]
 
 ## Sources
 
