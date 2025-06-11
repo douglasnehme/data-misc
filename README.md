@@ -15,7 +15,10 @@ Miscellaneous data from expanded South Atlantic [65°S - 22°N; 74°W - 30°E]
 - sacz_rosa_etal2020_1996-2016.csv
   - Table S2 of [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full), located at [Supplementary Material](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full#supplementary-material)
 - sacz_rosa_etal2020_1986-2020.csv
-  - SACZ events identified using [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full) method for the period from 1986 to 2020, courtesy of the authors.
+  - SACZ events identified using [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full) method for the period from 1986 to 2020, courtesy of the authors
+- sacz_rosso_etal2018_1992-2015.csv
+  - SACZ events listed in [Rosso *et al.* (2018)](https://www.mdpi.com/2073-4433/9/11/431) and used in [Rosa *et al.* (2020)](https://www.frontiersin.org/articles/10.3389/fenvs.2020.00018/full) as a reference to evaluate the SACZ automated identification method. As described by the authors, the events from 1992 to 1995 were obtained from several studies in the annals of Brazilian meteorology conferences and the events between 1996 and 2015 were obtained from the [Boletim de Monitoramento e Análise Climática
+(Climanálise)](http://climanalise.cptec.inpe.br/~rclimanl/boletim/)
 
 ## Roadmap
 
